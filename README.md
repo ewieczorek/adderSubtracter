@@ -1,0 +1,1 @@
+I wrote this 8-bit adder/subtracter with a control bit using VHDL. A signal simulator is required to run it, I used ModelSim. All of the necessary entities are in one fileto make it easier to import int a simulator. 
